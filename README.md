@@ -1,6 +1,6 @@
 # _my_mvc_
 A MVC based on php for better coding experience.  
-> Ideal for small projects  
+> Ideal for small or large projects  
 > Developed in core PHP.
 
 ### _Features:_
