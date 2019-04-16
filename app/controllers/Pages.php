@@ -6,15 +6,12 @@
     class Pages extends Controller
     {
         public function __construct () {
-            $this->postModel = $this->model('Post');
+
         }
 
         public function index() {
-            $posts = $this->postModel->getPost();
-
             $data = [
-                'title' => 'Welcome',
-                'posts' => $posts
+                'title' => 'Welcome to MyMVC'
             ];
 
             $this->view('pages/index', $data);
