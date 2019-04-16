@@ -16,5 +16,10 @@ A MVC based on php for better coding experience.
 
 **and many more to come..**
 
+### _How to use MyMVC:_
+1. Go to: 'app/config/db_config', to change **Database Settings**.  
+2. If you are facing any issues with URL, go to 'views/.htaccess',  
+and chane 'RewriteBase /public/' to 'RewriteBase YourProject/public/'
+
 #### _Project Credits for Motivation & Styling_:
 Traversy Media, Bootstrap
