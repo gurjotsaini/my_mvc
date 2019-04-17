@@ -4,7 +4,10 @@
         <div class="container">
             <h1 class="jumbotron-heading"><?= $data['title']; ?></h1>
             <p class="lead text-muted">
-                For source code, Go to the following Github page:
+                This is MyMVC.
+            </p>
+            <p class="lead text-muted">
+                Just download it from Github repo, and you are good to go.
             </p>
         </div>
     </section>
